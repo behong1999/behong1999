@@ -13,12 +13,14 @@
 
 - 💪 Know about my experiences [Click here to view my CV](https://drive.google.com/file/d/1EcUrn_n9BG1gkCIyYfjw7DpJZjcLPAm7/view?usp=sharing)
 
-- ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
 
 - 🤝 Connect with me <a href="https://linkedin.com/in/hong-khon-huynh" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt='Linkedin'></a>
+
+
+- ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
 <br>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools
 <p align="left"> 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
   <img width="12" />
