@@ -11,10 +11,10 @@
   honghuynhkhon@gmail.com
   ```
 
-- 💪 Know about my experiences [Click here to view my CV](https://drive.google.com/file/d/1EcUrn_n9BG1gkCIyYfjw7DpJZjcLPAm7/view?usp=sharing)
+- 💪 Know about my experiences [<kbd>Click Here To View My CV</kbd>](https://drive.google.com/file/d/1EcUrn_n9BG1gkCIyYfjw7DpJZjcLPAm7/view?usp=sharing)
 
 
-- 🤝 Connect with me <a href="https://linkedin.com/in/hong-khon-huynh" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt='Linkedin'></a>
+- 🤝 Connect with me <a href="https://linkedin.com/in/hong-khon-huynh" target="blank"><img  align="center" height="20"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
 
 
 - ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
@@ -69,4 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </p>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behong1999&show_icons=true&locale=en&layout=compact" alt="behong1999" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=behong1999&show_icons=true&locale=en&layout=compact&theme=dracula" alt="behong1999" />
+</p>
