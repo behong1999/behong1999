@@ -14,7 +14,7 @@
 - 💪 Know about my experiences [<kbd>Click Here To View My CV</kbd>](https://drive.google.com/file/d/1EcUrn_n9BG1gkCIyYfjw7DpJZjcLPAm7/view?usp=sharing)
 
 
-- 🤝 Connect with me <a href="https://linkedin.com/in/hong-khon-huynh" target="blank"><img  align="center" height="20"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
+- 🤝 Connect with me <a href="https://linkedin.com/in/hong-khon-huynh" target="blank"><img  height="16"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/2560px-LinkedIn_2021.svg.png" alt='Linkedin'></a>
 
 
 - ⚡ Tech-Badminton Enthusiast, Thriver, Cat Lover
